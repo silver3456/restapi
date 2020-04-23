@@ -12,7 +12,7 @@
     <properties>
         <rest.assured.version>3.3.0</rest.assured.version>
         <testng.version>6.14.3</testng.version>
-        <jackson.verion>2.9.8</jackson.verion>
+        <jackson.verion>2.9.10.4</jackson.verion>
 
     </properties>
     <dependencies>
